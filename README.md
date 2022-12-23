@@ -11,8 +11,5 @@ Yassine Moustamid
 ### Schema global des entitées et des dtos : 
 ![image](https://user-images.githubusercontent.com/101817679/208999915-3d8de813-a734-48c0-a37a-b3aac9de94d9.png)
 
-### test des methodes query sur graphiql :
-
-### test des methodes mutation sur graphiql :
-
-
+### test  methode query sur graphiql :
+<img width="960" alt="Capture d’écran 2022-12-23 112059" src="https://user-images.githubusercontent.com/79654133/209318758-5d21116f-96b6-4a99-89de-4dc7813f70f9.png">
